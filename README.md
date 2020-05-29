@@ -54,6 +54,7 @@ This was challenging since it was my first time using cv library in python,and d
 ---
 
 ### Modules
+* python(2.7.16)
 * opencv(2.4.13)
 * scipy
 
