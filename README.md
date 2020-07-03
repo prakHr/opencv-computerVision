@@ -2,7 +2,7 @@
 [Book Course AND Coursera Course]  - Book-OpenCV with Python By Example_ Build real-world computer vision applications and develop cool demos using OpenCV for Python AND Coursera Course-Introduction to Computer Vision with Watson and OpenCV
 
 
-<img src="https://www.packtpub.com/media/logo/stores/1/logo.png" width="170" height="75">
+<img src="https://github.com/prakHr/opencv-computerVision/blob/master/packt-logo.png" width="170" height="75">
 
 
 
@@ -14,7 +14,7 @@ This book will also provide clear examples written in Python to build OpenCV app
 
 The book is a practical tutorial that covers various examples at different levels, teaching you about the different functions of OpenCV and their actual implementation.
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/3/9/3932os_opencv20with20python20by20example_.jpg" width="240" height="240">
+<img src="https://github.com/prakHr/opencv-computerVision/blob/master/book-opencv.jpg" width="240" height="240">
 
 ## Table of contents
 * [Summary](#summary)
